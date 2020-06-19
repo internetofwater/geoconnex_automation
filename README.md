@@ -1,5 +1,5 @@
 # geoconnex_automation
-A repository to automate PID management for Geoconnex.us
+A repository to automate PID management for Geoconnex.us, addressing internetofwater/geoconnex.us#59 
 
 ## Epic
 
